@@ -1,0 +1,6 @@
+node_modules/
+*.log
+*.pem
+*.crx
+.env*
+GO-LIVE-REPORT.local.md
